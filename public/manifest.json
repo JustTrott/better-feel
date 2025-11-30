@@ -1,0 +1,25 @@
+{
+  "name": "3x3 Wellness",
+  "short_name": "3x3",
+  "description": "Track your sleep, gratitude, and movement with the 3x3 Routine",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F3",
+  "theme_color": "#7A9E7E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "apple touch icon"
+    }
+  ]
+}
+
