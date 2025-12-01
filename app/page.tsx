@@ -147,7 +147,7 @@ export default function Home() {
       if (getCurrentSnapshot() !== lastSavedRef.current) {
         handleSave();
       }
-    }, 2000);
+    }, 3000);
     
     // Cleanup on unmount or when dependencies change
     return () => {
